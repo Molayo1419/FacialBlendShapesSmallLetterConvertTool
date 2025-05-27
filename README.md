@@ -8,6 +8,6 @@ FBX의 Body 오브젝트에 있는 블렌드셰이프 이름이 영어이고, �
 
 
 # 사용 방법
-![Image](https://github.com/user-attachments/assets/aa288e2a-747d-4d09-b18e-e3d3d8a9230d)
+![Image](https://github.com/user-attachments/assets/dc5544d8-223c-48bc-8a6b-1bc588e1955a)
 변환할 오브젝트를 bat File과 .py File과 같은 위치에 두고, FBX 파일을 .bat 파일에 드래그합니다.
 변환할 파일 그대로 덮어쓰기하여 데이터가 저장됩니다.
